@@ -25,3 +25,7 @@ This Python script allows you to quickly visualize your DataFrame using interact
 ### Note
 - Ensure you have the required libraries installed (`pip install pandas numpy cufflinks chart_studio plotly`).
 - This script provides a quick and interactive way to visualize your DataFrame, ideal for exploratory data analysis.
+
+### Sample Output
+![image](https://github.com/dharshii-22/PYTHON_MINI_PROJECTS/assets/110839215/f1f0a4ba-ff8a-4aca-b2c1-e488563d67d8)
+![image](https://github.com/dharshii-22/PYTHON_MINI_PROJECTS/assets/110839215/dec0cf65-a6ff-4761-a5c2-64cd53858503)
